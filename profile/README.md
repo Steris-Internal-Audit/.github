@@ -1,8 +1,13 @@
 At Steris, security is one of the most important pillars of the organization
 We are completely transparent, and look to share data with other organizations and improve mutually
 
-# "I remember back in the 80's using Audit Command Language and going through all the code" - Joe
+# "I remember back in the 90's using Audit Command Language and going through all the code" - Joe
 - We use cutting edge technology like Excel and Vlookups to manage millions of rows of data
+- Stuck in 1990'a to 2000's, if it's new usually considered bad and scary if there's code
+- Too cheap to even buy ACL from Dilligent anyways
+- He is a nice guy at least and does care for his employees. However if he really cared he would provide the right software to do our jobs
+- Obviously has ABSOLUTELY NO IDEA about programming languages (other than old ACL), yet will talk as if he knows what everything does
+- Related mostly to any language other than SQL, he might know that SQL is a database but all other software that requires skill he is clueless
 
 # Technology Stuck in the 2000's
 - Tableau Prep is becoming an extremely useful tool, we don't know what it does yet, but it looks fancy.
