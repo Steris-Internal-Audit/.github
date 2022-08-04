@@ -8,7 +8,15 @@ We are completely transparent, and look to share data with other organizations a
 - Tableau Prep is becoming an extremely useful tool, we don't know what it does yet, but it looks fancy.
 - SQL looks really difficult so we rely on folders of Exceluu sheets
 - Python and R or any other programming language our Analytics manager is afraid to learn, so we stick with the basics
-         - To his credit, he's almost managed to SELECT in SQL and use a WHERE statement or GROUP BY statement
+- Expected to build out advanced analytics with no programming but happy to lie about using them early on
+
+# Internal Audit Manager has extremely low technical skills
+- Requests are laughable given the technology provided
+- Believe best practice to be large Excel files pieced together, due to unwillingness to learn any other programs
+- Fun to hear him talk about technology and best practices, obviious within minutes he has no idea
+- Extreme favoritism, he can lie, break tools, leave open data connections to personal data and financial data with impunity
+
+- To his credit, he's almost managed to SELECT in SQL and use a WHERE statement or GROUP BY statement
 - Expect robust analytics to be designed and built using no actual coding tools
 
 # Careers
