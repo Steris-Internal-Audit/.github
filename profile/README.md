@@ -7,7 +7,8 @@ We are completely transparent, and look to share data with other organizations a
 # Technology Stuck in the 2000's
 - Tableau Prep is becoming an extremely useful tool, we don't know what it does yet, but it looks fancy.
 - SQL looks really difficult so we rely on folders of Exceluu sheets
-- Python and R or any other programming language our Analytics manager is afraid to learn, so we stick wit the basics
+- Python and R or any other programming language our Analytics manager is afraid to learn, so we stick with the basics
+         - To his credit, he's almost managed to SELECT in SQL and use a WHERE statement or GROUP BY statement
 - Expect robust analytics to be designed and built using no actual coding tools
 
 # Careers
